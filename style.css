@@ -22,12 +22,12 @@
 
 /* Menú de navegación */
 .navBar nav {
-    margin-left: auto; /* Mueve el menú a la derecha */
+    margin-left: auto; 
 }
 
 .navBar ul {
     display: flex;
-    gap: 1.5rem; /* Espacio entre los ítems del menú */
+    gap: 1.5rem; 
     list-style: none;
     padding: 0;
     margin: 0;
